@@ -1,0 +1,21 @@
+{
+  "name": "korean-dancheong-dark",
+  "displayName": "korean-dancheong-dark",
+  "description": "A dark theme inspired by Korean Dancheong — born from a visit to Bulguksa Temple in Gyeongju, reimagined for modern coding.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "korean-dancheong-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/korean-dancheong-dark-color-theme.json"
+      }
+    ]
+  }
+}
