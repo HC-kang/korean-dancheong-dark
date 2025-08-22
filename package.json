@@ -2,7 +2,7 @@
   "name": "korean-dancheong-dark",
   "displayName": "Korean Dancheong Dark",
   "description": "A dark theme inspired by Korean Dancheong — born from a visit to Bulguksa Temple in Gyeongju, reimagined for modern coding.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "weston0713",
   "author": {
     "name": "HC-kang"
@@ -31,7 +31,7 @@
     "url": "https://github.com/HC-kang/korean-dancheong-dark"
   },
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
