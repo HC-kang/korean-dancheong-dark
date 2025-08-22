@@ -1,8 +1,34 @@
 {
   "name": "korean-dancheong-dark",
-  "displayName": "korean-dancheong-dark",
+  "displayName": "Korean Dancheong Dark",
   "description": "A dark theme inspired by Korean Dancheong — born from a visit to Bulguksa Temple in Gyeongju, reimagined for modern coding.",
   "version": "0.0.1",
+  "publisher": "HC-kang",
+  "author": {
+    "name": "HC-kang"
+  },
+  "license": "MIT",
+  "keywords": [
+    "korean",
+    "dancheong",
+    "dark",
+    "theme",
+    "temple",
+    "traditional",
+    "colors"
+  ],
+  "galleryBanner": {
+    "color": "#101612",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/HC-kang/korean-dancheong-dark#readme",
+  "bugs": {
+    "url": "https://github.com/HC-kang/korean-dancheong-dark/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HC-kang/korean-dancheong-dark"
+  },
   "engines": {
     "vscode": "^1.103.0"
   },
@@ -12,7 +38,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "korean-dancheong-dark",
+        "label": "Korean Dancheong Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/korean-dancheong-dark-color-theme.json"
       }
